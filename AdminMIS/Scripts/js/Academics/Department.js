@@ -228,4 +228,5 @@ function deactivateDepartment() {
 function clearDepartmentForm() {
     //clear form
     $("#frmAddDepartment")[0].reset();
+    console.log("Form cleared");
 }
