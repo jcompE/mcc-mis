@@ -57,7 +57,8 @@ namespace AdminMIS.Controllers
 
         public JsonResult GetDepartment(int id)
         {
-            return Json(_context.Departments.Where(d => d.DepartmentID == id).FirstOrDefault<Department>(), JsonRequestBehavior.AllowGet);
+            //return Json(_context.Departments.Where(d => d.DepartmentID == id).FirstOrDefault<Department>(), JsonRequestBehavior.AllowGet);
+            return Json(_context.Departments.FirstOrDefault<Department>(d => d.DepartmentID == id), JsonRequestBehavior.AllowGet);
         }
 
         public JsonResult DeactivateDepartment(int id)
