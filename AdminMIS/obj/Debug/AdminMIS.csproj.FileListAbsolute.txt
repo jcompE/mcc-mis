@@ -414,6 +414,3 @@ C:\Users\JEL-PC\Source\Repos\mcc-mis\AdminMIS\obj\Debug\AdminMIS.csprojResolveAs
 C:\Users\JEL-PC\Source\Repos\mcc-mis\AdminMIS\obj\Debug\AdminMIS.csproj.CoreCompileInputs.cache
 C:\Users\JEL-PC\Source\Repos\mcc-mis\AdminMIS\obj\Debug\AdminMIS.dll
 C:\Users\JEL-PC\Source\Repos\mcc-mis\AdminMIS\obj\Debug\AdminMIS.pdb
-C:\Users\Edmar Dabon\Source\Repos\mcc-mis\AdminMIS\obj\Debug\AdminMIS.csprojResolveAssemblyReference.cache
-C:\Users\Edmar Dabon\Source\Repos\mcc-mis\AdminMIS\obj\Debug\AdminMIS.dll
-C:\Users\Edmar Dabon\Source\Repos\mcc-mis\AdminMIS\obj\Debug\AdminMIS.pdb
