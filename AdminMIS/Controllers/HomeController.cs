@@ -8,6 +8,7 @@ namespace AdminMIS.Controllers
 {
     public class HomeController : Controller
     {
+        //Sample Commit
         public ActionResult Index()
         {
             return View();
